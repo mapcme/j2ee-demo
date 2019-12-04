@@ -160,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575438808705</updated>
       <workItem from="1575438811622" duration="6521000" />
-      <workItem from="1575447982904" duration="641000" />
+      <workItem from="1575447982904" duration="731000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1575447832601</created>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575448441459</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="md文档">
+      <created>1575448705660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575448705660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,10 +203,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="434" y="204" width="670" height="751" key="#xdebugger.evaluate/0.0.1920.1160@0.0.1920.1160" timestamp="1575443801528" />
-    <state x="452" y="93" key="CommitChangelistDialog2" timestamp="1575448440679">
+    <state x="452" y="93" key="CommitChangelistDialog2" timestamp="1575448704850">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="452" y="93" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1575448440679" />
+    <state x="452" y="93" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1575448704850" />
     <state x="64" y="382" key="FileChooserDialogImpl" timestamp="1575447537484">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -272,10 +279,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="330" y="129" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1575447930691" />
-    <state x="452" y="240" key="Vcs.Push.Dialog.v2" timestamp="1575448448317">
+    <state x="452" y="240" key="Vcs.Push.Dialog.v2" timestamp="1575448708875">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="452" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1575448448317" />
+    <state x="452" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1575448708875" />
     <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1575448573438">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
