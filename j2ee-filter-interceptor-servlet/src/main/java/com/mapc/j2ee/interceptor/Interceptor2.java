@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @Slf4j
-@Order(1)
+@Order(2)
 public class Interceptor2 implements HandlerInterceptor {
 
     @Override
