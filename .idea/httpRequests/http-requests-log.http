@@ -1,3 +1,37 @@
+POST http://localhost:8080/users/register
+Accept: */*
+Cache-Control: no-cache
+
+{     "name":"duchao",     "pwd":123456 }
+
+<> 2019-12-31T092707.415.json
+
+###
+
+GET http://localhost:8080/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
 GET http://localhost:8080/test
 Accept: */*
 Cache-Control: no-cache
@@ -197,36 +231,6 @@ Cache-Control: no-cache
 ###
 
 GET http://localhost:8888
-Accept: */*
-Cache-Control: no-cache
-
-###
-
-GET http://localhost:8888/test
-Accept: */*
-Cache-Control: no-cache
-
-###
-
-GET http://localhost:8888/test
-Accept: */*
-Cache-Control: no-cache
-
-###
-
-GET http://localhost:8888/test
-Accept: */*
-Cache-Control: no-cache
-
-###
-
-GET http://localhost:8888/test
-Accept: */*
-Cache-Control: no-cache
-
-###
-
-GET http://localhost:8888/test
 Accept: */*
 Cache-Control: no-cache
 

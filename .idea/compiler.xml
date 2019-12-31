@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="thread-pool" />
         <module name="j2ee-filter-interceptor-servlet" />
+        <module name="jpa-criteria" />
         <module name="spring-aware" />
+        <module name="java8-localdatetime" />
+        <module name="spring-applicationlistener" />
         <module name="running-generic-type" />
       </profile>
     </annotationProcessing>
@@ -15,7 +19,11 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="j2ee-filter-interceptor-servlet" options="" />
+      <module name="java8-localdatetime" options="-parameters" />
+      <module name="jpa-criteria" options="-parameters" />
+      <module name="spring-applicationlistener" options="-parameters" />
       <module name="spring-aware" options="" />
+      <module name="thread-pool" options="-parameters" />
     </option>
   </component>
 </project>

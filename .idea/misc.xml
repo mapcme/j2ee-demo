@@ -7,6 +7,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/j2ee-filter-interceptor-servlet/pom.xml" />
         <option value="$PROJECT_DIR$/spring-aware/pom.xml" />
+        <option value="$PROJECT_DIR$/java8-localdatetime/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-criteria/pom.xml" />
+        <option value="$PROJECT_DIR$/thread-pool/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-applicationlistener/pom.xml" />
       </list>
     </option>
   </component>
