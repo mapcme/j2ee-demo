@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/jpa-criteria/pom.xml" />
         <option value="$PROJECT_DIR$/thread-pool/pom.xml" />
         <option value="$PROJECT_DIR$/spring-applicationlistener/pom.xml" />
+        <option value="$PROJECT_DIR$/23-design-pattern/pom.xml" />
       </list>
     </option>
   </component>
